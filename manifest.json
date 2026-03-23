@@ -2,7 +2,7 @@
   "name": "YouWallet",
 "short_name": "YouWallet",
   "description": "Control de gastos y ahorros",
-  "start_url": "./index.html",
+  "start_url": "/Youwallet/",
   "display": "standalone",
   "background_color": "#000000",
   "theme_color": "#000000",
