@@ -1,4 +1,7 @@
 {
+  "id": "youwallet",
+  "start_url": "./",
+  "scope": "./",
   "name": "YouWallet",
 "short_name": "YouWallet",
   "description": "Control de gastos y ahorros",
